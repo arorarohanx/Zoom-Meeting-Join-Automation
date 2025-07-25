@@ -1,5 +1,5 @@
 # Zoom-Meeting-Join-Automation
-Hey Guys Another automation on Zoom for lazy guys like me and you :)
+Another automation on Zoom for lazy guys like me and you :)
 
 
 Much Important :-- **It can only work for 1920x1080p resolution**
